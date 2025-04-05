@@ -1,9 +1,9 @@
 ## Salary-Dashboard
 
  excel skills used:
- _ ❎data validation
- _ 🧮formulas and functions
- _ 📉Charts
+ - ❎data validation  
+ - 🧮formulas and functions  
+ - 📉Charts  
 
  ## main formula 
 This is the primary formula used to calculate the median salary, allowing us to perform  analysis based on its results.
